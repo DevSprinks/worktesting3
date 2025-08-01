@@ -16,14 +16,14 @@ empty
          alert('JavaScript executed via GitHub Page..');
     </script>
     <script>
-        window.onload = function() {
-	setTimeout(function() {
-                window.open("https://train.staging.kmionline.com/a/resources/7018/content/", '_blank');
-	}, 20); 
+    //     window.onload = function() {
+	// setTimeout(function() {
+    //             window.open("https://train.staging.kmionline.com/a/resources/7018/content/", '_blank');
+	// }, 20); 
 	// setTimeout(() => {
     // 		window.location.href = 'https://devsprinks.github.io/worktesting2';
 	//  }, 2000);
-        };
+    //     };
     </script>
 
 </body>
